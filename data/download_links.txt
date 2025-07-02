@@ -1,0 +1,16 @@
+# SpatialCell AI Transformed Data
+# Download from Zenodo: https://doi.org/10.5281/zenodo.XXXXXXX
+
+# SpatialCell AI Transformed Data
+# Download from Zenodo: https://doi.org/10.5281/zenodo.15786320
+
+## Dataset Description
+This Zenodo repository contains SpatialCell AI-transformed spatial transcriptomics data
+used for validation against Xenium ground truth in our manuscript.
+
+## Available Files:
+- spacialcellAI_visium_basic.zip - Standard Visium (55μm) processed with basic mode
+- spacialcellAI_visium_advanced.zip - Standard Visium (55μm) processed with advanced mode  
+- spacialcellAI_HD_visium_basic_8.zip - HD Visium (8μm) processed with basic mode
+- spacialcellAI_HD_visium_basic_16.zip - HD Visium (16μm) processed with basic mode
+- xenium_ground_truth.h5ad - Xenium single-cell resolution reference data
