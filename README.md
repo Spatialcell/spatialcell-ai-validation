@@ -11,5 +11,5 @@ Distribution-based validation framework comparing SpatialCell AI outputs against
 - See requirements.txt for dependencies
 
 ## Usage
-```python
-python validation/distribution_based_validation.py --input data/processed/ --output results/
+```jupyter notebook
+validation/Validation_script_v2.ipynb
